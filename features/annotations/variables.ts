@@ -1,5 +1,5 @@
-let apples: number = 5;
-let speed: string = 'Fast';
+let apples = 5;
+let speed = 'Fast';
 let hasName: boolean = true;
 
 let nothingMuch: null = null;
